@@ -54,3 +54,24 @@ To run it:
 ```bash
 sqlite3 library.db < library_schema.sql
 # or in MySQL Workbench / pgAdmin
+
+🔶 Task 2: Data Insertion & Handling Nulls
+### ✔ Deliverables
+- `task2_data_manipulation.sql`
+
+### ✔ What It Includes
+- `INSERT` statements with proper handling of `NULL`
+- `UPDATE` statements using `WHERE`
+- `DELETE` statements using `WHERE`
+- Clean and consistent sample data for testing
+
+### ✔ Concepts Practiced
+- Adding rows  
+- Updating specific columns  
+- Deleting specific records  
+- Using `NULL` & `DEFAULT` values  
+- Ensuring safe database updates with conditions  
+
+---
+
+## 📂 Repository Structure
