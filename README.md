@@ -75,3 +75,31 @@ sqlite3 library.db < library_schema.sql
 ---
 
 ## 📂 Repository Structure
+
+Task 3 – Writing Basic SELECT Queries
+📌 Overview
+
+This task focuses on learning how to retrieve data from a database using SQL.
+You will practice writing SELECT statements with filtering, sorting, and pattern matching.
+
+This task was performed using SQLiteStudio / DB Browser for SQLite, but the SQL works in any SQL engine.
+
+🎯 Objective
+
+Understand how to extract data from tables
+
+Use filtering and conditions (WHERE, AND, OR)
+
+Search text patterns (LIKE)
+
+Retrieve values within a range (BETWEEN)
+
+Sort results (ORDER BY)
+
+Limit the number of results (LIMIT)
+
+🛠️ Tools Used
+
+SQLiteStudio 
+
+task3_select_queries.sql
