@@ -103,3 +103,44 @@ Limit the number of results (LIMIT)
 SQLiteStudio 
 
 task3_select_queries.sql
+
+Task 4 – Aggregate Functions and Grouping
+📌 Overview
+
+Task 4 focuses on learning how to summarize and analyze data using SQL aggregate functions.
+You will practice using:
+
+COUNT()
+
+SUM()
+
+AVG()
+
+MIN()
+
+MAX()
+
+GROUP BY
+
+HAVING
+
+These queries help you understand how to generate reports and statistical insights from tables.
+
+🎯 Objective
+
+Use aggregate functions to compute totals, averages, and counts
+
+Group records by a specific column
+
+Filter grouped results using HAVING
+
+🛠️ Tools Used
+
+SQLiteStudio
+
+DB Browser for SQLite 
+
+📂 Deliverable
+
+task4_aggregate_queries.sql
+Contains all aggregate and grouping queries.
